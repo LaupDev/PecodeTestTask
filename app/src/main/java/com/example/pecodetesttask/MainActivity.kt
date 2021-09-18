@@ -2,17 +2,13 @@ package com.example.pecodetesttask
 
 import android.app.NotificationManager
 import android.content.Context
-import android.content.SharedPreferences
 import android.os.Bundle
-import android.preference.PreferenceManager
-import android.util.Log
 import androidx.activity.viewModels
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import androidx.viewpager2.widget.ViewPager2
 import com.example.pecodetesttask.databinding.ActivityMainBinding
-import kotlin.math.log
 
 class MainActivity : FragmentActivity() {
 
