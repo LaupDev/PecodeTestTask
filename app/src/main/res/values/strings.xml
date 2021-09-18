@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PecodeTestTask</string>
+
+    <string name="create_notification">Create new\nnotification</string>
+    <string name="notification_number">%d</string>
+    <string name="remove_last_fragment">Remove last fragment</string>
+
+    <string name="notification_title">You created a notification</string>
+    <string name="notification_content">Notification %d</string>
+
+    <string name="channel_name">Pecode Test Task</string>
+    <string name="channel_description">Test Task</string>
+
+</resources>
